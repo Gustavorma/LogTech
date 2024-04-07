@@ -1,4 +1,10 @@
-# Aprendizado por projetos integrados (API): LogTech
+<h4 align="center">
+🚧 README em construção... 🚧
+</h4>
+
+##
+
+# Aprendizado por projetos integrados: LogTech
 
 ## Sobre o projeto:
 
@@ -51,7 +57,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 ## Mínimo produto viável (MVP)
 
 | Sprint | MVP |
-|:------:|:---:|
+|:------:|---|
 |   1    | Um preview da amostra de dados permitindo os primeiros inputs e uma análise preliminar das rotas. |
 |   2    | Um visualizador em Power BI contendo os principais KPIs identificados na sprint anterior. |
 |   3    | Uma análise da amostra, com avaliação mês a mês, proporcionando insights sobre as tendências e variações ao longo do tempo. |
@@ -72,10 +78,18 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 # Backlog do produto
 
-
-
-...
-
+| Rank | Prioridade | User Story | Sprint |
+|:----:|:----------:|------------|:------:|
+|   1  |    BAIXA   | Como gestor de uma empresa embargadora, necessito de um sistema de gerenciamento de projetos que apoie o uso das ferramentas ágeis. |   1   |
+|   2  |    MÉDIA   | Enquanto gestor, é essencial acompanhar todas as etapas de desenvolvimento do projeto e ter o registro de todas as alterações realizadas. |   1   |
+|   3  |    ALTA    | Como gestor, é fundamental verificar possíveis inconsistências na base de dados e acompanhar os principais indicadores de produtividade das rotas. |   1   |
+|      |            |                                                                                                                     |       |
+|   4  |    MÉDIA   | Enquanto gestor, necessito de um mecanismo simplificado para consulta e visualização da base de dados. |   2   |
+|   5  |    ALTA    | Enquanto gestor, preciso de um visualizador em Power BI que permita uma análise mais detalhada da produtividade das rotas. |   2   |
+|      |            |                                                                                                                     |       |
+|   6  |    ALTA    | Como gestor, é fundamental conseguir interpretar os painéis, realizar análises e tomar decisões a partir dos KPIs da amostra. Isso inclui uma avaliação mês a mês que proporcione insights sobre as tendências e variações ao longo do tempo. |   3   |
+|      |            |                                                                                                                     |       |
+|   7  |    ALTA    | Enquanto gestor, é crucial saber interpretar o método de transportes para a otimização da amostra e descrever o melhor cenário para a empresa almejar no futuro como meta. |   4   |
 
 
 
@@ -116,15 +130,16 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 # Autores
 
-|    Função       |       Nome           |                                                                                                                                                          Contato                                                                                                                                                          |
-|:---------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Product Owner   |   Gustavo Araújo    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorma/)    |
-| Scrum Master    |   Mayara Gomes      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-carolina-da-costa-gomes-24937368/)     |
-| Team Member     |    Bruna Santos     |   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](bruna.santos154@fatec.sp.gov.br)  |
-| Team Member     |    Davi Santos      |   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](davi.santos42@fatec.sp.gov.br)  |
-| Team Member     |   Juliana Pacuti    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-pascuti-6839ab202/) |
-| Team Member     |    Marcos Santana   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-camargo-9ba097226)    |
-| Team Member     |    Samantha Lima    |   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](samantha.lima@fatec.sp.gov.br)  |
+| Função         | Nome              | Contato                                                                                                                                                             |
+|:--------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Product Owner  | Gustavo Araújo    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorma/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gustavorma/Gustavo_profile) |
+| Scrum Master   | Mayara Gomes      | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-carolina-da-costa-gomes-24937368/) |
+| Team Member    | Bruna Santos      | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bruna.santos154@fatec.sp.gov.br) |
+| Team Member    | Davi Santos       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santos-57458120b/) |
+| Team Member    | Juliana Pacuti    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-pascuti-6839ab202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulianaPascuti) |
+| Team Member    | Marcos Santana    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-camargo-9ba097226) |
+| Team Member    | Samantha Lima     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-lima-564b46261//) |
+
 
 
 ##
