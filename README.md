@@ -18,7 +18,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 
 # Objetivo específicos do projeto
 
-Em suma, este projeto visa oferecer percepções valiosas e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira.
+Este projeto visa oferecer percepções valiosas e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira.
 
 - Análise de Produtividade das rotas.
 - Criação e modelagem de um banco de dados em SQL.
@@ -32,12 +32,12 @@ Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambi
 - Centralizar os trabalhos e projetos.
 - Organizar e estruturar as informações.
 - Versionar e controlar as alterações.
-- Facilitar o compartilhamento e feedback.
+- Facilitar o compartilhamento de arquivos e permitir o trabalhado colaborativo.
 - Desenvolver habilidades técnicas.
 
 # Datas
 
-Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com foco no desenvolvimento de competências e baseado nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP, seguido pela sua operação (CDIO).
+Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos Integradores), visando o ensino e aprendizado. Ele se baseia nos pilares de aprendizado com problemas reais, focando no desenvolvimento de competências, validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP (Mínimo Produto Viável).
 
 | Sprint             |    Data      |   Status      |
 |:------------------:|:------------:|:-------------:|
@@ -47,6 +47,16 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 | 3                  | 29/05/2024   | A fazer       |
 | 4                  | 19/06/2024   | A fazer       |
 | Feira de Soluções  | 27/06/2024   | A fazer       |
+
+## Mínimo produto viável (MVP)
+
+| Sprint | MVP |
+|:------:|:---:|
+|   1    | Um preview da amostra de dados permitindo os primeiros inputs e uma análise preliminar das rotas. |
+|   2    | Um visualizador em Power BI contendo os principais KPIs identificados na sprint anterior. |
+|   3    | Uma análise da amostra, com avaliação mês a mês, proporcionando insights sobre as tendências e variações ao longo do tempo. |
+|   4    | Um código em Python que destaque o melhor cenário para a minimização dos custos da empresa, traçando as metas futuras da organização. |
+
 
 # Tecnologias utilizadas
 - Jira Software
