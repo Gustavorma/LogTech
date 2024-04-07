@@ -100,14 +100,14 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação      |
-|------------------------|--------------------|
-| GitHub                 | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos     | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master           | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Product Owner          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Markdown               | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Git Projects           | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+|Tecnologia/Metodologia    |Classificação             |
+|:------------------------:|:------------------------:|
+| GitHub                   | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos       | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master             | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Product Owner            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Markdown                 | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects             | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
  
 </details>
@@ -116,14 +116,14 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
-| Habilidades          | Classificação            |
-|----------------------|--------------------------|
-| Adaptabilidade       | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação          | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Entrega de Resultados| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+|Habilidades             |Classificação              |
+|:----------------------:|:-------------------------:|
+| Adaptabilidade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Colaboração            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Comunicação            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Autonomia              | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Proatividade           | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Entrega de Resultados  | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
 
 
 </details>
