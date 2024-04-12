@@ -136,8 +136,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 | Scrum Master   | Mayara Gomes      | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-carolina-da-costa-gomes-24937368/) |
 | Team Member    | Bruna Santos      | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bruna.santos154@fatec.sp.gov.br) |
 | Team Member    | Davi Santos       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santos-57458120b/) |
-| Team Member    | Juliana Pacuti    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-pascuti-6839ab202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulianaPascuti) |
-| Team Member    | Marcos Santana    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-camargo-9ba097226) |
+| Team Member    | Juliana Pascuti    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-pascuti-6839ab202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulianaPascuti) |
+| Team Member    | Marcos Santana    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-camargo-9ba097226) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Marvinc4)
 | Team Member    | Samantha Lima     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-lima-564b46261//) |
 
 
