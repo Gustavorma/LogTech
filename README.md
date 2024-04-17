@@ -84,6 +84,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <summary>Sprint 1</summary>
 
 ## Documentação
+[Sprint 1](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf)
 
 ## Tecnologias utilizadas
 - Jira Software
