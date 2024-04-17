@@ -4,7 +4,7 @@
 
 ##
 
-# Aprendizado por projetos integrados: LogTech
+Equipe 3 - LogTech
 
 ## Sobre o projeto:
 
@@ -14,10 +14,9 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 * [Objetivos específicos do projeto](#objetivo-específicos-do-projeto)
 * [Objetivo do projeto](#objetivos-do-projeto)
 * [Datas](#datas)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Linguagens de programação utilizadas](#linguagens-de-programação-utilizadas)
 * [Backlog do produto](#backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Mínimo produto viável (MVP)](#mínimo-produto-viável-(MVP))
+* [Sprints](#sprints)
 * [Autores](#autores)
 
 ##
@@ -54,28 +53,6 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 | 4                  | 19/06/2024   | A fazer       |
 | Feira de Soluções  | 27/06/2024   | A fazer       |
 
-## Mínimo produto viável (MVP)
-
-| Sprint | MVP |
-|:------:|---|
-|   1    | Um preview da amostra de dados permitindo os primeiros inputs e uma análise preliminar das rotas. |
-|   2    | Um visualizador em Power BI contendo os principais KPIs identificados na sprint anterior. |
-|   3    | Uma análise da amostra, com avaliação mês a mês, proporcionando insights sobre as tendências e variações ao longo do tempo. |
-|   4    | Um código em Python que destaque o melhor cenário para a minimização dos custos da empresa, traçando as metas futuras da organização. |
-
-
-# Tecnologias utilizadas
-- Jira Software
-- Power BI
-- Microsoft Excel
-- SQL
-- Slack
-
-## Linguagens de programação utilizadas
-- Python
-- DAX
-- Markdown
-
 # Backlog do produto
 
 | Rank | Prioridade | User Story | Sprint |
@@ -91,39 +68,30 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |      |            |                                                                                                                     |       |
 |   7  |    ALTA    | Enquanto gestor, é crucial saber interpretar o método de transportes para a otimização da amostra e descrever o melhor cenário para a empresa almejar no futuro como meta. |   4   |
 
+## Mínimo produto viável (MVP)
+
+| Sprint | MVP |
+|:------:|---|
+|   1    | Um preview da amostra de dados permitindo os primeiros inputs e uma análise preliminar das rotas. |
+|   2    | Um visualizador em Power BI contendo os principais KPIs identificados na sprint anterior. |
+|   3    | Uma análise da amostra, com avaliação mês a mês, proporcionando insights sobre as tendências e variações ao longo do tempo. |
+|   4    | Um código em Python que destaque o melhor cenário para a minimização dos custos da empresa, traçando as metas futuras da organização. |
 
 
-# Competências desenvolvidas
-
- ## Hard Skill
+# Sprints
 
 <details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-|Tecnologia/Metodologia    |Classificação             |
-|:------------------------:|:------------------------:|
-| GitHub                   | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos       | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master             | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Product Owner            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Markdown                 | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Git Projects             | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+<summary>Sprint 1</summary>
 
- 
+## Documentação
+
+## Tecnologias utilizadas
+- Jira Software
+- Microsoft Excel
+- Slack
+- GitHub
+
 </details>
-
-## Soft Skill
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-|Habilidades             |Classificação              |
-|:----------------------:|:-------------------------:|
-| Adaptabilidade         | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Colaboração            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Comunicação            | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Autonomia              | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Proatividade           | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Entrega de Resultados  | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
 
 
 </details>
