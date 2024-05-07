@@ -4,6 +4,8 @@
 
 # Equipe 3 - LogTech
 
+![alt text](https://www.canva.com/design/DAGEjYs3xuc/0gpukwJjgjxVpJu1D3-cLQ/view)
+
 ## Sobre o projeto:
 
 Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a análise da produtividade das rotas de uma empresa embarcadora, buscando otimizar sua distribuição e, consequentemente, reduzir os custos logísticos.
