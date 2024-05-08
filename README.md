@@ -83,10 +83,11 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 <details> 
 <summary><b>Sprint 1</b></summary> 
- 
-### <b>Documentação</b>  |  <b>Vídeo</b>
 
-[Sprint 1](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf) | [![MVP Sprint 1](https://user-images.githubusercontent.com/164095128/325018521-0d1cad8c-299e-41eb-a9c3-5f6f86f8ad12.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5MTQ1OTksIm5iZiI6MTcxMzkxNDI5OSwicGF0aCI6Ii8xNjQwOTUxMjgvMzI1MDE4NTIxLTBkMWNhZDhjLTI5OWUtNDFlYi1hOWMzLTVmNmY4NmY4YWQxMi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyM1QyMzE4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjEyYjlkYTgzZTBlYTg2MzRjMmY5ZTMxYWVmODQ0ZWNiNDExMGJlM2QwMzczN2YwZWZhOWJhMWJiMzZjZDg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QaOlip-Q3vVfAV8x8dPumvoXnEpjsgitMFL67_O_FoM)](https://github.com/Gustavorma/LogTech/issues/1)
+## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf)
+
+### Vídeo MVP da sprint
+[Vídeo MVP](https://user-images.githubusercontent.com/164095128/325018521-0d1cad8c-299e-41eb-a9c3-5f6f86f8ad12.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5MTQ1OTksIm5iZiI6MTcxMzkxNDI5OSwicGF0aCI6Ii8xNjQwOTUxMjgvMzI1MDE4NTIxLTBkMWNhZDhjLTI5OWUtNDFlYi1hOWMzLTVmNmY4NmY4YWQxMi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyM1QyMzE4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjEyYjlkYTgzZTBlYTg2MzRjMmY5ZTMxYWVmODQ0ZWNiNDExMGJlM2QwMzczN2YwZWZhOWJhMWJiMzZjZDg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QaOlip-Q3vVfAV8x8dPumvoXnEpjsgitMFL67_O_FoM)
 
 ### Tecnologias utilizadas
 - GitHub
@@ -96,17 +97,12 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 </details>
 
+
+
 <details> 
 <summary><b>Sprint 2</b></summary> 
 
-### <b>Documentação</b>  |  <b>Vídeo</b>
 
-### Tecnologias utilizadas
-- GitHub
-- Jira Software
-- Slack
-- SQL
-- Power BI
 
 </details>
 
