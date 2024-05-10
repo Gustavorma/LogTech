@@ -44,17 +44,24 @@ Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambi
 
 Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos Integradores), visando o ensino e aprendizado. Ele se baseia nos pilares de aprendizado com problemas reais, focando no desenvolvimento de competências, validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP (Mínimo Produto Viável).
 
-| Sprint             |    Data      |   Status      |
-|:------------------:|:------------:|:-------------:|
-| Kick Off           | 13/03/2024   | Concluído     |
-| 1                  | 17/04/2024   | Concluída  |
-| 2                  | 08/05/2024   | Em andamento       |
-| 3                  | 29/05/2024   | A fazer       |
-| 4                  | 19/06/2024   | A fazer       |
-| Feira de Soluções  | 27/06/2024   | A fazer       |
+<div align="center">
+
+|      Sprint        |     Data      |     Status     |
+|:------------------:|:-------------:|:--------------:|
+|     Kick Off       |  13/03/2024   |   Concluído    |
+|         1          |  17/04/2024   |   Concluída    |
+|         2          |  08/05/2024   | Em andamento   |
+|         3          |  29/05/2024   |    A fazer     |
+|         4          |  19/06/2024   |    A fazer     |
+| Feira de Soluções |  27/06/2024   |    A fazer     |
+
+</div>
+
 
 # Backlog do produto
 
+<div align="center">
+  
 | Rank | Prioridade | User Story                                                                                                                                                                                               | Sprint |
 |:----:|:----------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
 |   1  |    BAIXA   | Como gestor de uma empresa embargadora, necessito de um sistema de gerenciamento de projetos que apoie o uso das ferramentas ágeis.                                                                    |   1    |
@@ -70,7 +77,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |      |            |                                                                                                                                                                                                          |        |
 |   8  |    ALTA    | Enquanto gestor, é essencial adequar o projeto à realidade da organização, garantindo que todas as funcionalidades e soluções propostas atendam às necessidades específicas do modelo de negócio. |   4    |
 
-
+</div>
 
 ## Mínimo produto viável (MVP)
 
@@ -104,7 +111,15 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 2</b></summary> 
 
+## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf)
 
+### Tecnologias utilizadas
+- GitHub
+- Jira Software
+- Slack
+- Microsoft Excel
+- MySQL Workbench
+- Power BI
 
 </details>
 
