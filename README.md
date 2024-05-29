@@ -50,8 +50,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |:------------------:|:-------------:|:--------------:|
 |     Kick Off       |  13/03/2024   |   Concluído    |
 |         1          |  17/04/2024   |   Concluída    |
-|         2          |  08/05/2024   | Concluída  |
-|         3          |  29/05/2024   |    A fazer     |
+|         2          |  08/05/2024   |   Concluída    |
+|         3          |  29/05/2024   |   Concluída    |
 |         4          |  19/06/2024   |    A fazer     |
 | Feira de Soluções |  27/06/2024   |    A fazer     |
 
@@ -138,7 +138,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 3</b></summary> 
 
-## [Documentação]([https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf](https://github.com/Gustavorma/LogTech/blob/main/Sprint%203.pdf)
+## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%203.pdf)
 
 ### Tecnologias utilizadas
 - GitHub
