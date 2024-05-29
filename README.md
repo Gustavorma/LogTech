@@ -138,7 +138,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 3</b></summary> 
 
-## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf)
+## [Documentação]([https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf](https://github.com/Gustavorma/LogTech/blob/main/Sprint%203.pdf)
 
 ### Tecnologias utilizadas
 - GitHub
