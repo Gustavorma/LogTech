@@ -1,7 +1,3 @@
-<h4 align="center">
-🚧 README em construção... 🚧
-</h4>
-
 # Equipe 3 - LogTech
 
 ## Sobre o projeto:
@@ -116,7 +112,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 ### MVP - MySQL Workbench
 [![MVP - MySQL Workbench](https://img.youtube.com/vi/A8ZQTqM3H4M/0.jpg)](https://www.youtube.com/watch?v=A8ZQTqM3H4M)
 
-### [Code SQL](https://github.com/Gustavorma/LogTech/blob/main/sprint2.sql)
+## [Code SQL](https://github.com/Gustavorma/LogTech/blob/main/sprint2.sql)
 
 ### MVP - Power BI
 [![MVP - Power BI](https://img.youtube.com/vi/6xjPJXePeTE/0.jpg)](https://www.youtube.com/watch?v=6xjPJXePeTE)
