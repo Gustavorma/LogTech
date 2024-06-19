@@ -4,8 +4,6 @@
 
 # Equipe 3 - LogTech
 
-![alt text](https://www.canva.com/design/DAGEjYs3xuc/0gpukwJjgjxVpJu1D3-cLQ/view)
-
 ## Sobre o projeto:
 
 Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a análise da produtividade das rotas de uma empresa embarcadora, buscando otimizar sua distribuição e, consequentemente, reduzir os custos logísticos.
@@ -93,6 +91,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 1</b></summary> 
 
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/341146565-c92eb096-d4f2-497c-b443-53a72fe5da85.jpg)
+
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf)
 
 ### Vídeo MVP da sprint
@@ -105,8 +105,6 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 - Microsoft Excel
 
 </details>
-
-
 
 <details> 
 <summary><b>Sprint 2</b></summary> 
@@ -124,8 +122,6 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 [![MVP - Power BI](https://img.youtube.com/vi/6xjPJXePeTE/0.jpg)](https://www.youtube.com/watch?v=6xjPJXePeTE)
 
 
-
-
 ### Tecnologias utilizadas
 - GitHub
 - Jira Software
@@ -139,6 +135,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 <details> 
 <summary><b>Sprint 3</b></summary> 
+
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/341146566-206415fc-6e6d-4c7c-8c9a-9d216050b599.jpg)
 
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%203.pdf)
 
