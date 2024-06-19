@@ -105,7 +105,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 2</b></summary> 
 
-![MVP](https://raw.githubusercontent.com/Gustavorma/LogTech/main/341146564-992ad453-eafc-452a-8d56-8f7e744f3a5b.jpg)
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/Image%20MVP_2.jpg)
 
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf)
 
@@ -132,7 +132,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 3</b></summary> 
 
-![MVP](https://github.com/Gustavorma/LogTech/blob/main/341146566-206415fc-6e6d-4c7c-8c9a-9d216050b599.jpg)
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/Image%20MVP_3.jpg)
 
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%203.pdf)
 
