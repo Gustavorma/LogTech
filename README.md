@@ -87,7 +87,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 1</b></summary> 
 
-![MVP](https://github.com/Gustavorma/LogTech/blob/main/341146565-c92eb096-d4f2-497c-b443-53a72fe5da85.jpg)
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/Image%20MVP_1.jpg)
 
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf)
 
