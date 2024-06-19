@@ -52,7 +52,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |         1          |  17/04/2024   |   Concluída    |
 |         2          |  08/05/2024   |   Concluída    |
 |         3          |  29/05/2024   |   Concluída    |
-|         4          |  19/06/2024   |    A fazer     |
+|         4          |  19/06/2024   |   Concluída    |
 | Feira de Soluções |  27/06/2024   |    A fazer     |
 
 </div>
@@ -150,6 +150,24 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 - Python
 
 </details>
+
+
+<details> 
+<summary><b>Sprint 4</b></summary> 
+
+## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%204.pdf)
+
+### Tecnologias utilizadas
+- GitHub
+- Jira Software
+- Slack
+- Microsoft Excel
+- MySQL Workbench
+- Power BI
+- Python
+
+</details>
+
 
 # Autores
 
