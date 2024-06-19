@@ -111,6 +111,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 <details> 
 <summary><b>Sprint 2</b></summary> 
 
+![MVP](https://raw.githubusercontent.com/Gustavorma/LogTech/main/341146564-992ad453-eafc-452a-8d56-8f7e744f3a5b.jpg)
+
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%202.pdf)
 
 ### MVP - MySQL Workbench
