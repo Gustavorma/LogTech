@@ -75,12 +75,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 ## Mínimo produto viável (MVP)
 
-| Sprint | MVP |
-|:------:|---|
-|   1    | Implementação de um preview da amostra de dados com funcionalidades básicas para inserção de inputs e uma análise preliminar das rotas. |
-|   2    | Propõe-se a criação de um banco de dados dedicado à armazenagem, organização e controle de dados, visando garantir a integridade da base. Tal estrutura possibilitará consultas e exibições detalhadas, adaptáveis às necessidades do usuário. Em paralelo, será desenvolvido um visualizador no Power BI, direcionado aos principais  KPI's identificados na sprint anterior. |
-|   3    | Realização de uma análise detalhada da amostra, incluindo uma avaliação mês a mês para fornecer insights sobre as tendências e variações ao longo do tempo. Além disso, criação de um código em Python para identificar o melhor cenário visando a minimização dos custos da empresa, e estabelecimento de metas futuras da organização. |
-|   4    | Ajustes necessários para alinhar o projeto com a realidade operacional da organização.  |
+![MVP](https://github.com/Gustavorma/LogTech/blob/main/MVP.jpg)
 
 # Sprints
 
