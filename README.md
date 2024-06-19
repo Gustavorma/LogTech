@@ -157,6 +157,8 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 ## [Documentação](https://github.com/Gustavorma/LogTech/blob/main/Sprint%204.pdf)
 
+## [Código no Colab](https://github.com/Gustavorma/LogTech/blob/main/Preview_python.ipynb)
+
 ### Tecnologias utilizadas
 - GitHub
 - Jira Software
